@@ -1,0 +1,301 @@
+*{
+   margin:0;
+
+}
+body{
+   
+    overflow-x: hidden;
+}
+
+.header{
+    width:100%;
+    height: 140px;
+    background-color:#f7f7f7;
+}
+
+.box1{
+    width: 100%;
+    height: 10px;
+    background-color: #006341;
+}
+.cont{
+    display: flex;
+    padding: 20px 20px;
+    justify-content: space-between;
+    height: 50px;
+
+}
+.cont1{
+    padding-right: 80px;
+    display: flex;
+}
+
+.p{
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.cont3{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    padding-right: 60px;
+    
+}
+
+
+
+.cont img{
+width: 62px;
+height: 62px;
+ }
+ .cont1 img{
+    width: 20px;
+    height: 20px;
+ }
+
+ .im1{
+    width: 100%;
+    height: 510px;
+    background: url(/Starbucks2/images/register3.jpg);
+    background-size: 2220px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+ }
+
+ .im2{
+    background: url(/Starbucks2/images/cocoa4.jpg);
+    width: 100%;
+    height: 510px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 2220px
+ }
+
+ .im3{
+    background: url(/Starbucks2/images/smooth-brrews\ \(1\).jpg);
+    width: 100%;
+    height: 510px;
+    background-position-x: center;
+    background-size: 2220px;
+ }
+
+ .im4{
+    background: url(/Starbucks2/images/Desktop_dine_in_takeaway_and_delivery_tcm87-60021.png);
+    width: 100%;
+    height: 510px;
+    background-position-x: center;
+    background-size: 2220px;
+ }
+ .im5{
+    background: url(/Starbucks2/images/scoope-banner4.png);
+    width: 100%;
+    height: 520px;
+    background-position-x: center;
+    background-size: 2230px;
+ }
+ .im6{
+    background: url(/Starbucks2/images/Desktop_Mobile_Order_and_Pay_tcm87-64504.png);
+    width: 100%;
+    height: 520px;
+    background-position-x: center;
+    background-size: 2230px;
+ }
+
+ .im7{
+   background: url(/Starbucks2/images/web_revised_tcm87-72096.jpg);
+   width: 100%;
+   height: 520px;
+   background-position-x: center;
+   background-size: 2230px;
+ }
+ .im8{
+    width: 100%;
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+ }
+ .im8 img{
+    padding-left: 100px;
+    padding-top: 50px;
+ }
+ .hed{
+    padding-top: 170px;
+    padding-left: 170px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    width: 100%;
+    line-height: 75px;
+
+ }
+ .im8 p{
+    font-family: Crete Round',Georgia,'Times New Roman','serif;
+    font-size: 17px;
+    padding-left: 170px;
+    padding-top: 00px;
+    width: 100%;
+ }
+
+ .im9{
+    width: 100%;
+    height: 520px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+ }
+
+ .hed1{
+    font-family: 'Lato',Helvetica,Arial,sans-serif;
+    font-size: 24px;
+padding-top: 150px;
+padding-left: 100px;
+line-height: 75px;
+
+
+ }
+ .im92{
+    font-family: Crete Round',Georgia,'Times New Roman','serif;
+    font-size: 17px;
+    padding-left: 100px;
+
+ }
+ .im93{
+    padding-left: 330px;
+    padding-top: 70px;
+ }
+ .bottom{
+    width: 100%;
+    height: 114px;
+    background-color: #f0f0f0;
+    border: 3px solid white;
+    display: flex;
+ }
+ .fb img{
+    width: 25px;
+    height: 31px;
+ }
+ .fb{
+    padding: 15px;
+    margin-left: 40px;
+    margin-top: 20px;
+    opacity: 80%;
+ }
+ .twi img{
+    width: 25px;
+    height: 31px;
+
+ }
+ .twi{
+    padding: 15px;
+    margin-top: 20px;
+    opacity: 80%;
+ }
+ .ins img{
+    width: 25px;
+    height: 31px;
+
+ }
+ .ins {
+    padding: 15px;
+    margin-top: 20px;
+    opacity: 70%;
+ }
+
+ .ins img:hover{
+    background-color: rgb(214, 207, 221);
+    opacity: 18%;
+
+}
+.fb img:hover{
+    background-color: rgb(214, 207, 221);
+    opacity: 18%;
+}
+.twi img:hover{
+    background-color: rgb(214, 207, 221);
+    opacity: 18%;
+}
+
+ .footer{
+    width: 100%;
+    height: 206px;
+    background-color: #ffffff;
+    position: relative;
+    color: #3d3935;
+}
+
+.fot1{
+    display: flex;
+    font-size: 17px;
+    height: 150px;
+    padding-top: 95px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    width: 1600px;
+    
+
+}
+.STAR{
+    padding-left: 680px;
+
+}
+.fot12{
+    list-style: none;
+    display: flex; 
+
+}
+
+.fot13{
+    list-style: none;
+    display: flex;
+    
+
+}
+.fot2{
+    position: absolute;
+    bottom: 40px;
+    left: 0px;
+}
+.fot14{
+    position: absolute;
+    bottom: 11px;
+    left: 40px;
+    font-size: 14px;
+
+}
+.fot3{
+    position: absolute;
+    top:280px;
+    width: 700px;
+    right: 45px;
+    width: 100%;
+    
+    
+}
+.fot15{
+    list-style: none;
+    display: flex;
+    font-size: 12px;
+    position: absolute;
+    bottom: 25px;
+    left: 42px;
+
+}
+.fot4{
+    position: absolute;
+    top:265px;
+    left: 50px;
+    font-size: 10px;
+   
+    
+
+}
+
+
+
+
+
+
+ 
